@@ -14,7 +14,7 @@ Using the ERD creation ([QuickDBD](http://www.quickdatabasediagrams.com/)), pgAd
   * establish the database
   * create tables
   * import csv files
-* `queries_analysis_schema`.sql :
+* `queries_analysis_schema.sql` :
 
   * List the data followed by requirements
 
